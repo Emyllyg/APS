@@ -1,0 +1,7 @@
+Pergunte ao ChatGPT para desenvolver um sistema de __________
+simulando tarefas para uma equipe de dois programadores, com duração de 30 dias.
+
+Divida as tarefas em, no máximo três horas em um dia de trabalho de 8 horas.
+
+
+Pode utilizar o tema já desenvolvido anteriormente.

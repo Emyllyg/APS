@@ -1,0 +1,14 @@
+Cliente (Ana) diz oque deseja
+
+Analista (Lara) anota oque o cliente deseja
+
+Desenvolvedor (Emylly) desenvolve o que o analista escreveu
+
+Tester (Lorenço) aponta tudo aquilo que não condiz com a solicitação do cliente
+
+
+ANALISE:
+Criar um Mundo Aberto;COM MUITAS ARVORES,CAVERNAS,RAVINAS,GRAMA) NO CEU DRAGOES VOANDO( NAS CAVERNAS E RAVINAS COM NINHOS E OVOS DE DRAGOES TAMBÉM HAVERÁ TESOUROS EM GERAL)OS AVENTUREIROS( JOGADORES)PODERÃO INVADIR AS CAVERNAS E RAVINAS,ROUBAR OS TESOUROS,E CHOCAR OS OVOS PARA ELES, TAMBÉM DEVEM PEGAR SUPLEMENTOS E RECURSOS QUE ESTARAÕ ESPALHADOS PELO MUNDO.O OBJETIVO DO JOGO
+
+
+

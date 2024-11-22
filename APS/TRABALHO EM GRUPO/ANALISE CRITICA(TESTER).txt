@@ -1,0 +1,2 @@
+Relatorio: vejo que o projeto esta de acordo com o pedido de um "mundo abereto",tendo arevores,cavernas,ravinas e gramas; olhando para parte superior observa-se que o requisito de dragões esta correto; dentro das cavernas ha tesouros,ninhos com ovos. porem ha algo em falta:vilas(aldeias) vejo a ausencia desses recursos;ha algo no projeto que nao se encontra descrito nos requisitos, uma espada.Estas foram minhas observações  
+lorenço Gabriel Soares Martins
